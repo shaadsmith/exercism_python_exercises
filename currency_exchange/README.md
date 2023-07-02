@@ -1,7 +1,7 @@
 # Instructions
 Your friend Chandler plans to visit exotic countries all around the world. Sadly, Chandler's math skills aren't good. He's pretty worried about being scammed by currency exchanges during his trip - and he wants you to make a currency calculator for him. Here are his specifications for the app:
 
-## Task 1: Estimate value after exchange
+### Task 1: Estimate value after exchange
 
 Create the exchange_money() function, taking 2 parameters:
 
@@ -16,7 +16,7 @@ Note: If your currency is USD and you want to exchange USD for EUR with an excha
 106.25
 ```
 
-## Task 2: Calculate currency left after an exchange
+### Task 2: Calculate currency left after an exchange
 
 Create the `get_change()` function, taking 2 parameters:
 
@@ -28,7 +28,7 @@ This function should return the amount of money that is left from the budget.
 7.5
 ```
 
-## Task 3: Calculate value of bills
+### Task 3: Calculate value of bills
 
 Create the `get_value_of_bills()` function, taking 2 parameters:
 
@@ -41,7 +41,7 @@ This exchanging booth only deals in cash of certain increments. The total you re
 640
 ```
 
-## Task 4: Calculate number of bills
+### Task 4: Calculate number of bills
 
 Create the `get_number_of_bills()` function, taking `budget` and `denomination`.
 
@@ -51,7 +51,7 @@ This function should return the number of currency bills that you can receive wi
 25
 ```
 
-## Task 5: Calculate leftover after exchanging into bills
+### Task 5: Calculate leftover after exchanging into bills
 
 Create the `get_leftover_of_bills()` function, taking `budget` and `denomination`.
 
@@ -61,7 +61,7 @@ This function should return the leftover amount that cannot be exchanged from yo
 7.5
 ```
 
-## Task 6: Calculate value after exchange
+### Task 6: Calculate value after exchange
 
 Create the `exchangeable_value()` function, taking `budget`, `exchange_rate`, `spread`, and `denomination`.
 
