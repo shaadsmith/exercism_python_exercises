@@ -1,2 +1,2 @@
 # exercism_python_exercises
-Working my way through Python exercises on exercism.rog
+Solving python coding exercises on exercism.org (py 3.11.3)
